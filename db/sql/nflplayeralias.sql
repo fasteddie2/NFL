@@ -52,5 +52,5 @@ INSERT INTO nflplayeralias (alias, name) VALUES ('doublecheck', 'aaron rodgers')
 INSERT INTO nflplayeralias (alias, name) VALUES ('discount doublechoke', 'aaron rodgers');
 INSERT INTO nflplayeralias (alias, name) VALUES ('spraytan', 'demarco murray');
 INSERT INTO nflplayeralias (alias, name) VALUES ('spray tan', 'demarco murray');
-
+INSERT INTO nflplayeralias (alias, name) VALUES ('swatt', 'j.j. watt');
 
